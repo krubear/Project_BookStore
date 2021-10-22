@@ -1,0 +1,11 @@
+Kruber´s books
+Receipt
+
+1x  Brave New World
+
+ You have chosen to pick up your order. 
+It will be waiting for you at Kruber´s books.
+
+Cost of books: 108.0 SEK
+Your orders total weight is: 0.2 Kilograms
+Order number: 1000000
