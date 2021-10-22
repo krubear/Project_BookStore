@@ -47,10 +47,10 @@ class Order
                     {
                         pickUp.println("1x  " + shoppingCart1.getTitle());
                     });
-                    pickUp.println("\nYou have chosen to pick up your order. \nIt will be waiting for you at Kruber´s books.");
                     pickUp.println("\n" + calculateTotalCost());
                     pickUp.println(calculateTotalWeight());
-                    pickUp.println("Order number: " + orderNumber());
+                    pickUp.println("\nYou have chosen to pick up your order. \nIt will be waiting for you at Kruber´s books.");
+                    pickUp.println("\nOrder number: " + orderNumber());
                     pickUp.close();
 
                     break ORDER;
@@ -64,12 +64,12 @@ class Order
                     {
                         delivery.println("1x  " + shoppingCart1.getTitle());
                     });
-                    delivery.println("\nYou have chosen to have your order delivered.\nIt will arrive at your doorstep in 3-5 business days.\n");
                     delivery.println("\n" + calculateTotalCost());
                     delivery.println(calculateTotalWeight());
+                    delivery.println("\nYou have chosen to have your order delivered.\nIt will arrive at your doorstep in 3-5 business days.\n");
                     delivery.println(calculateShippingFee());
                     delivery.println("Your total price, books including shipping fee: " + calculateTotalCostWithShipping() + " SEK");
-                    delivery.println("Order number: " + orderNumber());
+                    delivery.println("\nOrder number: " + orderNumber());
                     delivery.close();
                     break ORDER;
 

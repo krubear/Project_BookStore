@@ -1,11 +1,24 @@
-Kruber´s books
+Kruber�s books
 Receipt
 
 1x  Brave New World
+1x  Metro 2033
+1x  Java the Complete Reference, 11th Edition
+1x  Future
+1x  The Black Book of Communism
+1x  Goodnight Mister Tom
+1x  Anarchist Cookbook
+1x  Sveriges Rikes Lag 2020
+1x  Blade Itself 
+1x  Girl With All The Gifts
 
- You have chosen to pick up your order. 
-It will be waiting for you at Kruber´s books.
+Cost of books: 3391.0 SEK
+Your orders total weight is: 6.38 Kilograms
 
-Cost of books: 108.0 SEK
-Your orders total weight is: 0.2 Kilograms
-Order number: 1000000
+You have chosen to have your order delivered.
+It will arrive at your doorstep in 3-5 business days.
+
+Shipping fee for: 10.0 books in 2.0 boxes is: 300.0 SEK
+Your total price, books including shipping fee: 3691.0 SEK
+
+Order number: 372900
